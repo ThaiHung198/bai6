@@ -1,3 +1,3 @@
-function showMessager(){
-    console.log('Xin chào')
+function showMessage(){
+    console.log('Xin chào!');
 }
