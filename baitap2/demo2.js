@@ -1,3 +1,3 @@
 function showMessage(){
-    document.getElementById('messagerDiv').innerHTML = ' Xin chào!';
+    document.getElementById("messagerDiv").innerHTML = 'Xin chào!';
 }
